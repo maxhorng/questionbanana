@@ -122,4 +122,4 @@ async def on_message(message):
         
         
 
-client.run('OTkzMjgwOTkxMDA5NDQ4MDE2.GdQS38.y_CMtf34SNOccvOufMnldSs3hYqJ7BUHE5CPCI') #TOKEN 在剛剛 Discord Developer 那邊「BOT」頁面裡面
+client.run('OTkzMjXXXXXX') #TOKEN 在剛剛 Discord Developer 那邊「BOT」頁面裡面
